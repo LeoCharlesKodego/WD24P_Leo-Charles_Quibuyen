@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding-bottom: 150px;
+  background-color: #e3dddd;
+}
+
+
+.header {
+  height: 100px;
+  padding-top: 13px;
+}
+
+.logo img {
+  height: 75px;
+  width: auto;
+}
+
+.container{
+  background-color: #fff;
+  min-width: 80% !important;
+  border-radius: 20px;
+  padding-bottom: 50px;
+
+}
+.checkout-form{
+  margin-top: 50px;
+}
+
+
+.container h1 {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.order-form {
+  border-style: solid;
+}
+
+.flex {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 5%;
+}
+
+.btn {
+  max-width: 40%;
+  margin-left: 30%;
+  margin-bottom: 20px;
+}

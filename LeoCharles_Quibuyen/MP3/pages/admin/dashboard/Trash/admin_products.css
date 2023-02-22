@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding-bottom: 150px;
+}
+
+.header {
+  height: 100px;
+}
+
+.header h2 {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.products {
+  margin-top: 60px;
+}
+
+.products h1 {
+  margin-bottom: 50px;
+}
+
+.navbar a :hover {
+  color: black;
+}
